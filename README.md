@@ -2,11 +2,7 @@
   1. Introduction
   2. Features
   3. Technologies Used
-  4. Installation
-  5. Usage
-  6. Contributing
-  7. License
-  8. Contact
+  4. Usage
      
 **Introduction**
         This project simulates an ATM machine using Java. The application allows users to perform basic banking operations such as checking balance, depositing money, withdrawing money and viewing ministatement.
